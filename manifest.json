@@ -1,0 +1,11 @@
+{
+    "name" : "Priya Jokes",
+    "description" : "Get new joke everyday",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "Smile2.png"
+    }
+
+}
